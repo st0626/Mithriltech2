@@ -1,0 +1,12 @@
+.jumbotron {
+  min-height: 450px;
+}
+
+h1 {
+  font-family: "Oswald";
+}
+
+p {
+  font-family: 'Roboto';
+  font-size: 1.05rem;
+}
