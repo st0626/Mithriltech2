@@ -41,3 +41,14 @@ p {
 img {
   max-width: 250px;
 }
+
+/****** ID Selectors ******/
+
+#shopping-cart {
+  fill: white;
+}
+
+#icon {
+  font-size: 3rem;
+  text-shadow: 8px 4px 10px black;
+}
