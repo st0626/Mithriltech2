@@ -8,5 +8,9 @@ h1 {
 
 p {
   font-family: 'Roboto';
-  font-size: 1.05rem;
+  font-size: 1.08rem;
+}
+
+img {
+  max-width: 250px;
 }
