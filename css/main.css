@@ -52,3 +52,8 @@ img {
   font-size: 3rem;
   text-shadow: 8px 4px 10px black;
 }
+
+#profile {
+  max-width: 300px;
+  margin: auto;
+}
